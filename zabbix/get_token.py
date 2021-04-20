@@ -14,7 +14,7 @@ def get_token():
         "method": "user.login",
         "params": {
             "user": "Admin",
-            "password": "zabbixzaq1@WSX"
+            "password": "123456"
     },
         "id": 1
     }
